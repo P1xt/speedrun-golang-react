@@ -1,6 +1,19 @@
 # Chingu FCC Speedrun Challenge
 
-## Details
+## Notes
+
+This repository contains my entries for the April/May Chingu FCC Speedrun Challenge.
+
+To fork a copy of your own and participate, there's a clean repo you can fork here:
+[Chingu FCC Speedrun Challenge](https://github.com/P1xt/chingu-fcc-speedrun-challenge)
+
+The golang / react variation is just something I'm doing, most people will be using the
+typical FreeCodeCamp stack (Node.js, Express, MongoDB, and Angular or React). I'm going a
+bit outside the box regarding my stack because I participated in a previous challenge 
+with the typical stack and want to push myself a bit to learn some new technologies.
+
+
+## Details (from the forked repo - see the original to fork your own copy from there)
 
 Fork this repository and add your code for each project to the appropriate folder in your repository as you complete each project.
 
